@@ -17,5 +17,5 @@ $ dmd loader.d -i syscalls.d
 To execute it directly, Run this:
 
 ```
-rdmd loader.d
+$ rdmd loader.d
 ```
