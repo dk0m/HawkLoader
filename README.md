@@ -11,7 +11,7 @@ HawkLoader utilizes indirect D's inline assembler to execute indirect system cal
 ## Compilation
 
 ```
-$ dmd loader.d -i syscalls.D
+$ dmd loader.d -i syscalls.d
 ```
 
 To execute it directly, Run this:
